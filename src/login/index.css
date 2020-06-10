@@ -1,0 +1,12 @@
+.login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 400px;
+  margin-left: 40px;
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+}
